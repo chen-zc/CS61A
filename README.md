@@ -13,7 +13,8 @@ Highlights of the projects (all wrriten in Python):
     
 2. Maps:
 
-    A visualization of restaurant ratings by a Voronoi diagram using machine learning and the Yelp academic dataset.
+    An engine for restaurant recommandation based on user's history of restraunt ratings using machine learning. 
+    Shown by a Voronoi diagram on a Map.
     
 3. Ants:
 
