@@ -13,8 +13,8 @@ Highlights of the projects (all wrriten in Python):
     
 2. Maps:
 
-    An engine for restaurant recommandation based on user's history of restraunt ratings using machine learning. 
-    Shown by a Voronoi diagram on a Map.
+    An engine for restaurant recommandation based on user's history of restaurant ratings using machine learning. 
+    The recommanded restaurants are shown by a Voronoi diagram on a Map.
     
 3. Ants:
 
